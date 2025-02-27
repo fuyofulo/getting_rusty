@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/getting_rusty/enums_implementation/target/debug/enums_implementation: /home/fuyofulo/100xdevs/getting_rusty/enums_implementation/src/implementation.rs /home/fuyofulo/100xdevs/getting_rusty/enums_implementation/src/main.rs
