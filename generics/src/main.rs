@@ -3,7 +3,7 @@ fn main() {
     display_stuff(String::from("hello"), String::from("World!"));
 
     println!("{}", sum(1, 2));
-    println!("{}", sum(5.0, 6.0));
+    println!("{}", sum(5.0, 6.0)); 
 }
 
 fn display_stuff<T: std::fmt::Display> (a: T, b: T) {
