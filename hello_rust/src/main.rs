@@ -18,9 +18,7 @@ fn main() {
     for i in 0..10 {
         println!("{}", i);
     }
-
     println!();
-
 }
 
 fn sum(a: u32, b:u32) -> u32 {
